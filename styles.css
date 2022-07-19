@@ -29,8 +29,8 @@ h1, h2 {
   z-index: 0;
   background: #fff;
   overflow: hidden;
-  border: 2px solid #FFC9AD;
-  color: #ECB390;
+  border: 2px solid #FAD9A1;
+  color: #FAD9A1;
 }
 .btna:hover {
   color: #fff;
@@ -47,7 +47,7 @@ h1, h2 {
   top: 0;
   height: 0;
   width: 100%;
-  background: #FFC9AD;
+  background: #FAD9A1;
 }
 /* Boton whatssapp */ 
 .btn-wsp {
@@ -75,4 +75,7 @@ h1, h2 {
 .portada {
   background-repeat: no-repeat;
   background-size: cover;
+}
+.caracteristicas h2 {
+  color: #F37878;
 }
